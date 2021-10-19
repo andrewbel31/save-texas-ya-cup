@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917156832945",
+    "firebase_url": "https://save-texas-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "save-texas",
+    "storage_bucket": "save-texas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917156832945:android:a7b3ee67c16ffa04486490",
+        "android_client_info": {
+          "package_name": "com.andreibelous.savetexas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917156832945-v376u6hq6dmsbvia5h6qiuq4mannk5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHx5xXktJwd_EEDVZaaJZhX0kdvUG5ceI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917156832945-v376u6hq6dmsbvia5h6qiuq4mannk5cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

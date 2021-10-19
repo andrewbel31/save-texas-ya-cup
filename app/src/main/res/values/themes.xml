@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.Savetexas" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>
